@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokeGenDex</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="main_permission">Grant Permissions</string>
+    <string name="main_start">Start</string>
+    <string name="main_starting">Starting…</string>
+    <string name="main_stop">Stop</string>
+</resources>
